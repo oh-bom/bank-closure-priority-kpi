@@ -32,7 +32,7 @@
 
 #### 📌 결론 도출
 <img width="383" alt="image" src="https://github.com/user-attachments/assets/469e7144-04a5-47ea-8daa-72f31877b361">
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/7aac0a63-eeda-46cf-bf91-012ae05a4588">
+<img width="444" alt="image" src="https://github.com/user-attachments/assets/7aac0a63-eeda-46cf-bf91-012ae05a4588">
 
 - 가장 높은 행정동 5곳: 중화 1동, 명일 1동,길동, 구로3동, 상계 6,7동
 - 가장 낮은 행정동 5곳: 서초 3동, 삼성 1동, 여의동, 역삼1동, 압구정동
